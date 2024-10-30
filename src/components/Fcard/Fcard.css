@@ -1,0 +1,17 @@
+.the-card{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-left: 9rem;
+    margin-top: 7rem;
+}
+
+.card{
+    background-color: white;
+    width: 350px;
+    height: 120px;
+    border-radius: 10px;
+    p{
+        color: rgb(64, 14, 111);
+    }
+}

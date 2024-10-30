@@ -1,0 +1,53 @@
+.hero{
+    display: flex;
+    align-items: center;
+    gap: 6rem;
+   
+    
+}
+.hero-texts{
+    margin-left: 9rem;
+    width: 400px;
+    h1{
+        font-size: 45px;
+        color: rgb(64, 14, 111);
+    }
+    .p1{
+        font-size: 20px;
+        width: 350px;
+    }
+    .appstore{
+        width: 120px;
+        height: 35px;
+        border: none;
+        border-radius: 10px;
+        background-color: black;
+        color: white;
+    }
+    .googleplay{
+        width: 150px;
+        height: 35px;
+        border: none;
+        border-radius: 10px;
+        background-color: black;
+        color: white;
+    }
+    .button{
+        display: flex;
+        gap: 1rem;
+    }
+
+}
+
+
+.hero-img1{
+    width: 600px;
+    
+    
+}
+.hero-img2{
+    width: 500px;
+    position: absolute;
+    right: 14rem;
+    bottom: 6rem;
+}

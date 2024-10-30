@@ -1,0 +1,22 @@
+.save{
+    display: flex;
+    align-items: center;
+    margin-left: 10rem;
+    gap: 9rem;
+    margin-top: 5rem;
+}
+
+.save-text{
+   width: 350px;
+   margin-top: -1rem;
+    h2{
+        color: rgb(64, 14, 111);
+        font-size: 40px;
+        width: 450px;
+
+    }
+}
+
+.save-img{
+    width: 500px;
+}

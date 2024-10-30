@@ -1,0 +1,20 @@
+.yourmoney{
+    display: flex;
+    align-items: center;
+    gap: 6rem;
+    margin-left: 6rem;
+}
+
+.yourmoney-img{
+    width: 600px;
+}
+
+.yourmoney-text{
+    width: 350px;
+    margin-top: -1rem;
+    h2{
+    font-size: 35px;
+    width: 400px;
+    color: rgb(64, 14, 111);
+    }
+}

@@ -1,0 +1,58 @@
+.navigation{
+    
+    display: flex;
+    justify-content: space-between;
+    margin: 0 60px ;
+    background-color: white;
+   
+    
+}
+
+.kuda{
+    color: rgb(64, 14, 111);
+}
+.list{
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    text-align: center;
+    color: rgb(64, 14, 111);
+
+    li{
+        font-size: 15px;
+    }
+
+}
+.dropdown{
+    width: 10px;
+}
+.nav-one{
+   
+    display: flex;
+    gap: 4rem;
+   align-items: center;
+    
+}
+.nav-two{
+   
+    display: flex;
+    gap: 3rem;
+   align-items: center;
+   p{
+    font-size: 15px;
+    color: rgb(64, 14, 111);
+   }
+   button{
+    width: 140px;
+    height: 45px;
+    background-color: rgb(64, 14, 111);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+   }
+}
+.k-flag{
+    width: 25px;
+    height: 25px;
+}
