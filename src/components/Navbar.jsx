@@ -1,5 +1,5 @@
 import Flag from "../assets/kudaflag.jpeg";
-import "./navbar.css";
+import "./Navbar.css";
 import Drop from "../assets/dropdown.png";
 
 const Navbar = () => {
